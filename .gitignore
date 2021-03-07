@@ -1,5 +1,5 @@
 # Folders
-data/
+# data/ #commenting out for coding club
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
