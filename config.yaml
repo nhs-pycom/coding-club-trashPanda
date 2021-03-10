@@ -9,12 +9,9 @@ Rows: 6
 Column Names:
   - Org name
   - Area Name
-  - Completed by
-  - Date completed
   - Population
   - Number of Records
   - Number of Users
   - Number of Views
-  - Number of Deployments
   - Number of Unique Users
   - Number of Errors
