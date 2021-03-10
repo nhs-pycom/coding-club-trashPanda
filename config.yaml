@@ -1,0 +1,20 @@
+---
+# Sheet names to include
+Sheet: "*CCG*"
+
+# Sheet rows to include
+Rows: 3
+
+# List of column names to include
+Column Names:
+  - Org name
+  - Area Name
+  - Completed by
+  - Date completed
+  - Population
+  - Number of Records
+  - Number of Users
+  - Number of Views
+  - Number of Deployments
+  - Number of Unique Users
+  - Name of Errors
